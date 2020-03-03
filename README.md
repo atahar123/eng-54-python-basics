@@ -20,3 +20,5 @@ This is a repo with the basics for Python
     - Good naming
     - DRY
     - Other
+    - RTFM (Read the Fricking Manual)
+    
